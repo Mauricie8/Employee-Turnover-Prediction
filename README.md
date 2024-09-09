@@ -41,11 +41,19 @@ The data was previously cleaned with a first ETL process, the only and last chan
 ## Exploratory Data Analysis (EDA)
 In this step, the principal objective was to:
 - To visualize correlations between all features to find some tends.
-- To compare dependent value with less correlated independent value.
+  ![](correlations.png)
+- To compare dependent variable with less correlated independent variable.
 - To graph and understand other correlations in values.
 
 ## Data Modeling
+Prevously to create testing and training datasets, some data must have been scaled, such as categorical features 'BusinessTravel', 'Department', 'EducationField', 'Gender', 'JobRole' and 'MaritalStatus'.
+Test size selected was 25%.
 
+## Results of Prediction Models
+
+LR         |         RFC         |          DL
+:---------:|:-------------------:|:-----------------:
+adsda      |          asasdasd           |   adsdsds               
 
 ## Conclusions and Recommendations
 
