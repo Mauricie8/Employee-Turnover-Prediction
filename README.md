@@ -53,10 +53,10 @@ Test size selected was 25%.
 
 LR         |         RFC         |          DL
 :---------:|:-------------------:|:-----------------:
-adsda      |          asasdasd           |   adsdsds               
+![](lr_results.png)      |     ![](rfc_results.png)           |   ![](dl_results.png)            
 
 ## Conclusions and Recommendations
 
-
+In this project, I developed models to predict employee turnover, aiming to help the company retain key talent. Three models were evaluated: Logistic Regression, Random Forest, and a Deep Learning model. Among these, the **Logistic Regression model has achieved an accuracy of 0.88** and the lowest error rate, compared to _0.85 for both Random Forest and Deep Learning models_. Based on the results, I recommend implementing the Logistic Regression model for predicting employee turnover. Its higher accuracy and lower error rate make it the most reliable option for a possible retention strategy.
 
 
