@@ -1,6 +1,8 @@
 # Human-Resources-Project
 ![](images/human-resources-introduction.jpg)
 
+---
+<img src="images/matplotlib-logo.png" alt="Matplotlib Logo" width="130"/> <img src="images/pandas-logo.png" alt="Pandas Logo" width="130"/> <img src="images/numpy-logo.png" alt="Numpy Logo" width="130"/>
 
 ## Introduction
 This project focuses on using data science to address a key challenge in human resources. By analyzing employee data, I developed a model that helps **identify** those who may be at **risk of leaving**, helping a company to take proactive steps to retain valuable talent. This solution can help improve employee retention and overall company performance. 
