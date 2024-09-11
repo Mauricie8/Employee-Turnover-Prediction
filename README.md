@@ -1,5 +1,5 @@
 # Human-Resources-Project
-![](human-resources-introduction.jpg)
+![](images/human-resources-introduction.jpg)
 
 
 ## Introduction
@@ -41,7 +41,7 @@ The data was previously cleaned with a first ETL process, the only and last chan
 ## Exploratory Data Analysis (EDA)
 In this step, the principal objective was to:
 - To visualize correlations between all features to find some tends.
-  ![](correlations.png)
+  ![](images/correlations.png)
 - To compare dependent variable with less correlated independent variable.
 - To graph and understand other correlations in values.
 
@@ -53,7 +53,7 @@ Test size selected was 25%.
 
 LR         |         RFC         |          DL
 :---------:|:-------------------:|:-----------------:
-![](lr_results.png)      |     ![](rfc_results.png)           |   ![](dl_results.png)            
+![](images/lr_results.png)      |     ![](images/rfc_results.png)           |   ![](images/dl_results.png)            
 
 ## Conclusions and Recommendations
 
