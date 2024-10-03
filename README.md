@@ -36,12 +36,12 @@ This project addresses the problem by developing a data-driven solution to predi
 
 ## Data Sourcing
 
-The dataset used in this project is a cleaned version of information extracted from human resources department. This processed data was prepared for building the predictive model.
+The dataset used in this project is a cleaned version of information extracted from human resources department. This processed data is prepared for building the predictive model.
 
 
 ## Data Transformation/Cleaning
 
-The data was previously cleaned with a first ETL process, the only and last changes produced to it were:
+The data was previously cleaned with a first ETL process, the only and last changes produced to it are:
 1) To replace 'Attritition' and 'overtime' column with integers.
 2) To remove unnecessary columns such as 'EmployeeCount', 'Over18' and 'Standardhours'.
 3) To scale categorical features such as 'BusinessTravel', 'Department', 'EducationField', 'Gender', 'JobRole' and 'MaritalStatus'.
