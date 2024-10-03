@@ -1,4 +1,4 @@
-# Human-Resources-Project
+# Employee Turnover Prediction
 
 ![](images/human-resources-introduction.jpg)
 
